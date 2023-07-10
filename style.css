@@ -50,7 +50,7 @@
   #feedback{
     background-color: blueviolet;
     height: 50px;
-    margin-left: 700px;
+    margin-left: 400px;
   }
   #button{
     background-color: blueviolet;
@@ -223,16 +223,16 @@
    margin-left: 10px;
   }
   #inside-03 #inside-09{
-    margin-left: 165px;
+    margin-left: 100px;
   }
   #inside-03 #inside-00{
-    margin-left:190px;
+    margin-left:125px;
   }
   #inside-03 #inside-10{
     margin-left: 10px;
   }
   #inside-03 #inside-11{
-   margin-left: 215px;
+   margin-left: 150px;
   }
   .fa-circle{
     font-size: 10px;
